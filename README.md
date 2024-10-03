@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Руслан!</h1>
+<h1 align="center">🎃 Привет👋 Меня зовут Руслан! 🎃</h1>
 
 ###
 
@@ -27,13 +27,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">🧛‍♂️  Обо мне</h3>
 
 ###
 
-<p align="left">Я начинающий Backend разработчик. Мой путь в IT начался с изучения NodeJS, изучил PHP, HTML, JS, ReactJS, чуть-чуть знаю С#, в будущем хочу быть Fullstack! Я изучал PHP на курсах Skillbox. В настоящий момент мое обучение на курсе завершено!
+<p align="left">Я начинающий Backend разработчик. Мой путь в IT начался с изучения NodeJS, изучил PHP, HTML, JS, ReactJS, чуть-чуть знаю С#, в будущем хочу быть Fullstack(Основная часть: Backend)!🎃 Я изучал PHP на курсах Skillbox. В настоящий момент мое обучение на курсе завершено!💀
 <br><br>- 📚 Завершил курсы по PHP в Skillbox!
-- 🔭 Участвовал в командном проекте в Skillbox (Делали <a href="https://github.com/RuslanSamburov/shop" target="_blank">интернет-магазин</a> на Laravel)
+- 🕸️ Участвовал в командном проекте в Skillbox (Делали <a href="https://github.com/RuslanSamburov/shop" target="_blank">интернет-магазин</a> на Laravel)
 </p>
 
 ###
@@ -83,7 +83,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 Дополнительная информация обо мне</h3>
+<h3 align="left">🧛‍♂️ Дополнительная информация обо мне</h3>
 
 ###
 
@@ -94,5 +94,12 @@
 <div align="center">
   <img height="300" width="600" src="assets/skeleton-skull.gif"  />
 </div>
+
+- 🍬🍬🍬🍬🍬
+- 🍬🍬🍬🍬🍬
+- 🍬🍬🍬🍬🍬
+- 🍬🍬🍬🍬🍬
+- 🍬🍬🍬🍬🍬
+- Не берите больше двух!
 
 ###
